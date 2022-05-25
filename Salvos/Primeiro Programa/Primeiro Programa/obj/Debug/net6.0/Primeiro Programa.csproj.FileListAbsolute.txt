@@ -1,0 +1,26 @@
+C:\Users\User\Desktop\Estudos\ASP.NET\Primeiro Programa\Primeiro Programa\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Desktop\Estudos\ASP.NET\Primeiro Programa\Primeiro Programa\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Desktop\Estudos\ASP.NET\Primeiro Programa\Primeiro Programa\bin\Debug\net6.0\Primeiro Programa.staticwebassets.runtime.json
+C:\Users\User\Desktop\Estudos\ASP.NET\Primeiro Programa\Primeiro Programa\bin\Debug\net6.0\Primeiro Programa.exe
+C:\Users\User\Desktop\Estudos\ASP.NET\Primeiro Programa\Primeiro Programa\bin\Debug\net6.0\Primeiro Programa.deps.json
+C:\Users\User\Desktop\Estudos\ASP.NET\Primeiro Programa\Primeiro Programa\bin\Debug\net6.0\Primeiro Programa.runtimeconfig.json
+C:\Users\User\Desktop\Estudos\ASP.NET\Primeiro Programa\Primeiro Programa\bin\Debug\net6.0\Primeiro Programa.dll
+C:\Users\User\Desktop\Estudos\ASP.NET\Primeiro Programa\Primeiro Programa\bin\Debug\net6.0\Primeiro Programa.pdb
+C:\Users\User\Desktop\Estudos\ASP.NET\Primeiro Programa\Primeiro Programa\obj\Debug\net6.0\Primeiro Programa.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Estudos\ASP.NET\Primeiro Programa\Primeiro Programa\obj\Debug\net6.0\Primeiro Programa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Estudos\ASP.NET\Primeiro Programa\Primeiro Programa\obj\Debug\net6.0\Primeiro Programa.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Estudos\ASP.NET\Primeiro Programa\Primeiro Programa\obj\Debug\net6.0\Primeiro Programa.AssemblyInfo.cs
+C:\Users\User\Desktop\Estudos\ASP.NET\Primeiro Programa\Primeiro Programa\obj\Debug\net6.0\Primeiro Programa.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Estudos\ASP.NET\Primeiro Programa\Primeiro Programa\obj\Debug\net6.0\Primeiro Programa.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Estudos\ASP.NET\Primeiro Programa\Primeiro Programa\obj\Debug\net6.0\Primeiro Programa.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\Estudos\ASP.NET\Primeiro Programa\Primeiro Programa\obj\Debug\net6.0\Primeiro Programa.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\Estudos\ASP.NET\Primeiro Programa\Primeiro Programa\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Desktop\Estudos\ASP.NET\Primeiro Programa\Primeiro Programa\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Desktop\Estudos\ASP.NET\Primeiro Programa\Primeiro Programa\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\User\Desktop\Estudos\ASP.NET\Primeiro Programa\Primeiro Programa\obj\Debug\net6.0\scopedcss\bundle\Primeiro Programa.styles.css
+C:\Users\User\Desktop\Estudos\ASP.NET\Primeiro Programa\Primeiro Programa\obj\Debug\net6.0\scopedcss\projectbundle\Primeiro Programa.bundle.scp.css
+C:\Users\User\Desktop\Estudos\ASP.NET\Primeiro Programa\Primeiro Programa\obj\Debug\net6.0\Primeiro Programa.dll
+C:\Users\User\Desktop\Estudos\ASP.NET\Primeiro Programa\Primeiro Programa\obj\Debug\net6.0\refint\Primeiro Programa.dll
+C:\Users\User\Desktop\Estudos\ASP.NET\Primeiro Programa\Primeiro Programa\obj\Debug\net6.0\Primeiro Programa.pdb
+C:\Users\User\Desktop\Estudos\ASP.NET\Primeiro Programa\Primeiro Programa\obj\Debug\net6.0\Primeiro Programa.genruntimeconfig.cache
+C:\Users\User\Desktop\Estudos\ASP.NET\Primeiro Programa\Primeiro Programa\obj\Debug\net6.0\ref\Primeiro Programa.dll
